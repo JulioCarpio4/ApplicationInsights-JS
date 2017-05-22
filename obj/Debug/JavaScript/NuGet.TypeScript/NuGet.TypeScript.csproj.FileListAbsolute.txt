@@ -1,0 +1,7 @@
+C:\Javascript\bin\Debug\JavaScript\NuGet.TypeScript\ai.d.ts
+C:\Javascript\bin\Debug\JavaScript\NuGet.TypeScript\Microsoft.ApplicationInsights.TypeScript.NuGet.dll
+C:\Javascript\bin\Debug\JavaScript\NuGet.TypeScript\Microsoft.ApplicationInsights.TypeScript.NuGet.pdb
+C:\Javascript\obj\Debug\JavaScript\NuGet.TypeScript\NuGet.TypeScript.csprojResolveAssemblyReference.cache
+C:\Javascript\obj\Debug\JavaScript\NuGet.TypeScript\AssemblyInfo.g.cs
+C:\Javascript\obj\Debug\JavaScript\NuGet.TypeScript\Microsoft.ApplicationInsights.TypeScript.NuGet.dll
+C:\Javascript\obj\Debug\JavaScript\NuGet.TypeScript\Microsoft.ApplicationInsights.TypeScript.NuGet.pdb
